@@ -1,0 +1,6 @@
+[package]
+name = "hello_world"
+version = "0.1.0"
+authors = ["Lennart Espe <lennart@mooxmirror.io>"]
+
+[dependencies]
